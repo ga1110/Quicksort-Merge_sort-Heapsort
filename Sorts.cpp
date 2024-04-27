@@ -1,8 +1,6 @@
 ﻿#include <iostream>
 #include <vector>
-#include <array> 
 #include <ctime>
-#include <time.h> 
 #include <random>
 #include <chrono>
 using namespace std;
