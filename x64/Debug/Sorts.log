@@ -1,0 +1,3 @@
+﻿  Sorts.cpp
+F:\Study\GitHub\TEMP\Sorts\Sorts.cpp(32,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sorts.vcxproj -> F:\Study\GitHub\TEMP\Sorts\x64\Debug\Sorts-app.exe
